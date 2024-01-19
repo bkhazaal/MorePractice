@@ -1,0 +1,27 @@
+table, td, th {
+    border: 5px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    align-content: center;
+    margin: auto;
+    font-family: sans-serif;
+}
+
+.cells {
+    background-color:azure;
+
+}
+
+table {
+    margin-top: 50px;
+}
+
+th {
+    padding: 40px;
+    font-size: 30px;
+}
+
+td {
+    padding: 40px;
+    font-size: 20px;
+}
