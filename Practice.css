@@ -25,3 +25,9 @@ td {
     padding: 40px;
     font-size: 20px;
 }
+
+.emoji {
+    font-size: 500px;
+    text-align: center;
+    margin-top: 60px;
+}
