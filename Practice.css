@@ -30,4 +30,6 @@ td {
     font-size: 500px;
     text-align: center;
     margin-top: 60px;
+    background: linear-gradient(90deg, blue, black);
 }
+
