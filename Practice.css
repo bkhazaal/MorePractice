@@ -26,10 +26,13 @@ td {
     font-size: 20px;
 }
 
-.emoji {
-    font-size: 500px;
+.emoji, button {
+    font-size: 200px;
     text-align: center;
-    margin-top: 60px;
-    background: linear-gradient(90deg, blue, black);
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border: none;
+    border-radius: 50%;
+    
 }
 
